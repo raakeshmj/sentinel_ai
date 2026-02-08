@@ -117,7 +117,7 @@ This project is deployed using **GitHub Pages**.
 The Vite configuration uses a repository-based base path:
 
 ```ts
-base: "/sentinel-ai/"
+base: "/sentinel_ai/"
 ```
 
 If you fork the repository or rename it, update this value in `vite.config.ts` and rebuild the project.
