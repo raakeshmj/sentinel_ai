@@ -1,6 +1,6 @@
-# SENTINEL AI — Frontend
+# SENTINEL AI 
 
-SENTINEL AI is a frontend application built using **React, Vite, and TypeScript**.  
+SENTINEL AI is an application built using **React, Vite, and TypeScript**.  
 This repository contains the **client-side interface only**. Any AI analysis or API-backed functionality is expected to be run **locally** using environment variables or via a separate backend service.
 
 The deployed GitHub Pages version serves **static assets only** and does not embed or expose any API keys.
