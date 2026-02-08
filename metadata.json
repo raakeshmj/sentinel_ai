@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel AI",
+  "description": "A high-precision forensic tool for detecting synthetic media using multimodal AI analysis of video and audio inconsistencies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
