@@ -492,7 +492,7 @@ const App: React.FC = () => {
                       Hey! I'm Raakesh, a full-stack developer and a student at <span className="text-indigo-600 font-bold">VIT Vellore</span>. I built Sentinel AI because I was honestly getting creeped out by how good deepfakes have become lately. It's becoming impossible to tell what's real on the internet, and I wanted to create a tool that actually gives regular people and researchers a way to fight back. 
                     </p>
                     <p className="text-slate-600 leading-relaxed text-lg font-medium">
-                      Instead of just "guessing," this project is meant to be a proper forensic toolkit—using real science like biological pulse detection and frequency analysis to catch synthetic patterns that the human eye misses.
+                      Instead of just "guessing," this project is meant to be a proper forensic toolkit using real science like biological pulse detection and frequency analysis to catch synthetic patterns that the human eye misses.
                     </p>
                   </div>
                 </div>
